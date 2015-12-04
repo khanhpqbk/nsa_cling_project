@@ -55,5 +55,6 @@ class Bar<E>
     public Bar()
     {
         member = Foo.<E>createFoo();
+        // hello
     }
 }
